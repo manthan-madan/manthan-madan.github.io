@@ -1,0 +1,14 @@
+# OS cruft
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+
+# Local Claude Code settings (launch.json is kept intentionally)
+.claude/settings.local.json
+
+# Archives / scratch
+*.zip
