@@ -7,8 +7,8 @@ desktop.ini
 .vscode/
 .idea/
 
-# Local Claude Code settings (launch.json is kept intentionally)
-.claude/settings.local.json
+# Local tooling config — stays on disk, not published
+.claude/
 
 # Archives / scratch
 *.zip
